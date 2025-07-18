@@ -1,5 +1,5 @@
 # Python-validity for Gentoo
-## reviving after almost 2 years.
+# Development paused -- not enough knowlege
 
 ## How to add using eselect/repository
 ```
