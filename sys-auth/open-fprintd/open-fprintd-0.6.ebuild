@@ -5,8 +5,6 @@ EAPI=8
 
 PYTHON_COMPAT=( python3_{7..11} pypy3 )
 
-inherit distutils-r1
-
 DESCRIPTION="D-Bus clients to access fingerprint readers"
 HOMEPAGE="https://github.com/uunicorn/open-fprintd"
 SRC_URI="https://github.com/uunicorn/${PN}/archive/${PV}.tar.gz -> ${P}.tar.gz"
