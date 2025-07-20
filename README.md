@@ -1,5 +1,5 @@
 # Python-validity for Gentoo
-# Development paused -- not enough knowlege
+# Development paused -- not enough knowledge
 
 ## How to add using eselect/repository
 ```
