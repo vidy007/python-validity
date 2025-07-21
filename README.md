@@ -1,7 +1,5 @@
-# Python-validity for Gentoo
-# Development paused -- not enough knowledge
-
-## How to add using eselect/repository
+# Python-validity for Gentoo!
+## How to add using eselect/repository:
 ```
 # install app-eselect/eselect-repository
 emerge --ask app-eselect/eselect-repository
